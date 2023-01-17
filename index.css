@@ -1,13 +1,28 @@
+body{
+	font-family: "Open Sans", sans-serif;
+}
 .ijk{
-	background-color: black;
+	background-color: #17659c;
 	text-align: right;
 }
 .jik{
-background-image: url(./images/imagi.jpg);
-background-size: contain;
+background-image: url(./images/kaboompics_color-swatches-paint-colors-palette-eye-correction-glasses-29117.jpg);
+background-color: #122d3c;
+background-size: cover;
+
 }
 .mk{
 	text-align: center;
+	border: 3px;
+border-style: double;
+border-color: #d0cbff;
+border-radius: 5px;
+background-image: url(./images/pexels-romka- -2034373.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+width: 55%;
+padding: 5px;
+max-height: 300px;
 }
 .is{
 	word-spacing: 5px;
@@ -17,8 +32,29 @@ background-size: contain;
 	color: #e2e2e2;
 }
 .ilo{
-background-color: #eee459;
+
+	margin-top: 2.5rem;
 }
 .yi{
-	background-color: #839100;
+	background-image: url(./images/pexels-drew-williams-2657669.jpg);
+	background-size: cover;
+}
+.ghj{
+	background-color: #e2e2e2;
+}
+.ty{
+	width: 30px;
+	height: 30px;
+}
+.yuk{
+	background-color: #0082ca;;
+}
+.yuki{
+	background-color: #ac2bac;;
+}
+.yuka{
+	background-color: #3b5998;;
+}
+.una{
+	background-color: #e2e2e2;
 }
