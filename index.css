@@ -62,3 +62,12 @@ max-height: 300px;
 	color: black;
 }
 .op:hover {background-color: #20dbd8}
+
+.iua{
+	color: white;
+	font-weight: bold;
+	background-color: #d5efed;
+	border-radius: 20px;
+	font-size: 1rem;
+	padding: 0.6rem;
+}
